@@ -1,0 +1,164 @@
+
+ 
+
+.col-3 {
+  text-align: left;
+  line-height: 50px;
+}
+.col-3 a {
+  color:rgb(62, 59, 59);
+}
+
+i {
+  font-size: 20px;
+}
+
+.branlog{
+padding-left:-15px ;}
+
+
+
+.brand-d {
+  color: whitesmoke;
+  font-size: 15px;
+
+  text-align: left;
+}
+
+.col-5 a {
+  color: whitesmoke;
+}
+
+
+
+
+
+
+
+.art22 {
+  background-color: rgb(235, 255, 255);
+}
+.g {
+  font-size: 50px;
+  box-shadow: 0px 0px 20px 15px goldenrod;
+  border-radius: 50%;
+  padding: 40px;
+}
+.g:hover{
+  box-shadow:  0px 0px 20px 15px gray ;
+}
+.ssd:hover {
+ font-size: 15px;
+}
+
+.gr {
+  padding: 70px 0px;
+}
+.but{
+    padding: 0px  20px;
+}
+.cap{
+  height: 300px;
+  bottom: 100px;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.116);
+
+}
+
+.eart2 {
+  padding-bottom: 70px;
+}
+.sign1 {
+  padding-bottom: 60px;
+}
+
+.sechead {
+  margin: 60px 0px;
+}
+
+
+
+.upfoot {
+  padding-bottom: 60px;
+}
+.pupfoot {
+  font-size: 30px;
+}
+.HUPFOOT {
+  padding-top: 30px;
+}
+
+.emaill {
+  padding-top: 30px;
+}
+
+.xs {
+  font-size: 20px;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 50px;
+  margin-right: 3px;
+}
+.li1 {
+  line-height: 35px;
+}
+
+.hf {
+  padding-left: 22px;
+  padding-bottom: 20px;
+}
+
+.usr {
+  border: 3px solid white;
+  color: white;
+  border-radius: 50%;
+  font-size: 25px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+
+
+
+.fainaly a {
+  color: white;
+  font-size: 20px;
+}
+.contain {
+  padding-left: 50px;
+}
+
+.backfoot {
+  padding-bottom: 50px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+    url(../images/6.png);
+    background-repeat: no-repeat;
+}
+
+.linke a{
+  padding-right: 5px;
+}
+
+
+.buth{
+    display: flex;
+justify-content: space-evenly;
+
+}
+.gr i:hover{
+
+  font-size: 40px;
+  color: goldenrod;
+}
+i:hover{
+  color: white;
+  font-size: 30px;
+}
+.copy{
+  height: 70px;
+  margin-top: -25px;
+  line-height: 70px;
+  
+}
